@@ -12,7 +12,7 @@ Just clone the repo, composer install and run interop-config.
 If you never used composer before you will find more infomations at [https://getcomposer.org/](https://getcomposer.org/).
 
 ## Further Reading
-You can find more Information about this example at [tutorial.md](https://github.com/sandrokeil/interop-config/blob/master/doc/book/tutorial.md).
+You can find more Information about this example at [tutorial.md](https://github.com/tobiju/interop-config/blob/develop/doc/book/tutorial.md).
 
 
 
