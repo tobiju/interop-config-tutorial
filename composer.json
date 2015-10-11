@@ -1,0 +1,5 @@
+{
+  "require": {
+    "sandrokeil/interop-config": "1.0.x-dev"
+  }
+}
