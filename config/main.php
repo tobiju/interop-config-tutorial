@@ -1,6 +1,6 @@
 <?php
 return [
-    'juto' => [
+    'tujo' => [
         'repository' => [
             'driverClass' => 'Tujo\Repository\RepositoryPluginManager',
             'params' => [

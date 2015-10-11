@@ -19,11 +19,21 @@ class RepositoryFactory implements ObtainsOptions
 
     use ConfigurationTrait;
 
+    /**
+     * Vendor Name for the configuration.
+     *
+     * @return string
+     */
     public function vendorName()
     {
-        return 'juto';
+        return 'tujo';
     }
 
+    /**
+     * Component Name for the configuration.
+     *
+     * @return string
+     */
     public function componentName()
     {
         return 'repository';

@@ -21,13 +21,9 @@ namespace Tujo\Repository;
 class RepositoryPluginManager
 {
 
-    private $config = array();
-
     public function __construct($config = array()){
-        $this->config = $config;
-
         // use config params in here
+        printf('Yeah! You get the correct configs. See below:');
         var_dump($config);
-
     }
 }
