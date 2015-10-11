@@ -12,8 +12,6 @@ namespace Tujo\Repository;
  *
  * <code>
  *  $RepositoryManager = new Tujo\Repository\RepositoryPluginManager();
- *  $RepositoryManager->contact(1,2);
- *  $RepositoryManager->get('contact')->__invoke(3,4);
  * </code>
  *
  */

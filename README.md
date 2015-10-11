@@ -1,7 +1,8 @@
 # interop-config-tutorial
 This is an implementation example for [interop-config](https://github.com/sandrokeil/interop-config).
 
-## Implementation of `ObtainsOptions` in RepositoryFactory. In this repo I implemented an example for using the `ObtainsOptions` 
+## Implementation of `ObtainsOptions` in RepositoryFactory. 
+In this repo I implemented an example for using the `ObtainsOptions` 
 from interop-config in your own project. The `RepositoryFactory` implements the `ObtainsOptions` interface. 
 The `ConfigurationTrait`  in this class will check if all expected configuration params were set in the `config/main.php`. 
 
