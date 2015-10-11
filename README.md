@@ -6,7 +6,7 @@ In this repo I implemented an example for using the `ObtainsOptions`
 from interop-config in your own project. The `RepositoryFactory` implements the `ObtainsOptions` interface. 
 The `ConfigurationTrait`  in this class will check if all expected configuration params were set in the `config/main.php`. 
 
-## How to run this repos
+## How to run this repo
 Just clone the repo, composer install and run interop-config. 
 
 If you never used composer before you will find more infomations at [https://getcomposer.org/](https://getcomposer.org/).
